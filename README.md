@@ -1,7 +1,5 @@
 # Looker_Studio_Exercises
 ## Links to the reports:
-### Sales Demo -[Demo Sales.pdf](https://github.com/mrsyamhfis/Looker_Studio_Samples/files/10931828/Demo.Sales.pdf)
- https://datastudio.google.com/s/jhT6oWwC9Gk
  
 ### GE15 - https://datastudio.google.com/reporting/b750411f-fe08-42d7-80d7-6bb30b59a5b9
 ![Screen Shot 2022-12-14 at 20 07 37](https://user-images.githubusercontent.com/112166780/224031860-32891582-7017-4c27-90c3-93ef4eeb1fd8.png)
