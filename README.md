@@ -6,3 +6,6 @@
 
 ### Public Water Fountain - https://datastudio.google.com/s/gRw6fpa-2qA
 ![Screen Shot 2023-02-23 at 13 41 52](https://user-images.githubusercontent.com/112166780/224031914-e341dffa-4592-4451-bb7f-95ee19074e8d.png)
+
+### HCMI Sales Dashboard - https://lookerstudio.google.com/s/vrqLctk0OzE
+![HCMI_Sales_Dashboard](https://user-images.githubusercontent.com/112166780/225012094-892f50e8-e40d-4198-92ae-4f0ed2e3a3fe.png)
